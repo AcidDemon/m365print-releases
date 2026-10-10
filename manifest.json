@@ -1,9 +1,20 @@
 {
   "schema": 1,
-  "serial": 1,
+  "serial": 2,
   "channels": {},
   "tenants": {},
-  "builds": {},
-  "issued": "2026-10-09T23:17:02Z",
-  "expires": "2027-04-07T23:17:02Z"
+  "builds": {
+    "1.0.0": {
+      "minWinBuild": 0,
+      "files": {
+        "agent.exe": {
+          "path": "v1.0.0/agent.exe",
+          "size": 14411752,
+          "sha256": "0cb32486e3bb763c267aed886d7e9ec9765b20696cb36e338a8b115b25926681"
+        }
+      }
+    }
+  },
+  "issued": "2026-10-10T18:57:46Z",
+  "expires": "2027-04-08T18:57:46Z"
 }
