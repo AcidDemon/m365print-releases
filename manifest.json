@@ -1,12 +1,14 @@
 {
   "schema": 1,
-  "serial": 6,
+  "serial": 7,
   "channels": {
     "v1": "1.0.0",
     "stable": "1.0.0",
     "pilot": "2.0.0"
   },
-  "tenants": {},
+  "tenants": {
+    "95340ddfb1a2a5f7": "pilot"
+  },
   "builds": {
     "1.0.0": {
       "minWinBuild": 0,
@@ -34,6 +36,6 @@
       }
     }
   },
-  "issued": "2026-10-10T19:17:23Z",
-  "expires": "2027-04-08T19:17:23Z"
+  "issued": "2026-10-10T19:17:43Z",
+  "expires": "2027-04-08T19:17:43Z"
 }
