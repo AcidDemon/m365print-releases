@@ -1,9 +1,10 @@
 {
   "schema": 1,
-  "serial": 5,
+  "serial": 6,
   "channels": {
     "v1": "1.0.0",
-    "stable": "1.0.0"
+    "stable": "1.0.0",
+    "pilot": "2.0.0"
   },
   "tenants": {},
   "builds": {
@@ -33,6 +34,6 @@
       }
     }
   },
-  "issued": "2026-10-10T19:15:20Z",
-  "expires": "2027-04-08T19:15:20Z"
+  "issued": "2026-10-10T19:17:23Z",
+  "expires": "2027-04-08T19:17:23Z"
 }
