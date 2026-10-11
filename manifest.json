@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 18,
+  "serial": 19,
   "channels": {
     "v1": "1.0.1",
     "stable": "1.0.1",
@@ -104,8 +104,23 @@
           "sha256": "841c407d2ce23f46b0cf42567b1c39af85c95184b2d8118543713d5fbceae25d"
         }
       }
+    },
+    "2.0.5": {
+      "minWinBuild": 26100,
+      "files": {
+        "agent.exe": {
+          "path": "v2.0.5/agent.exe",
+          "size": 14812640,
+          "sha256": "de93931831345748c426f3ef943a8b51168800d5c3fb32d9346a146fa13560e3"
+        },
+        "CloudPrinter.msix": {
+          "path": "v2.0.5/CloudPrinter.msix",
+          "size": 46364303,
+          "sha256": "22899b7fd69f90e01f3f9fc7b8ef20ebc70d7f17dfb3d8e8a2e23603fd1f003a"
+        }
+      }
     }
   },
-  "issued": "2026-10-11T08:20:12Z",
-  "expires": "2027-04-09T08:20:12Z"
+  "issued": "2026-10-11T09:00:58Z",
+  "expires": "2027-04-09T09:00:58Z"
 }
