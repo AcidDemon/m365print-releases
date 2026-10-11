@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 7,
+  "serial": 8,
   "channels": {
     "v1": "1.0.0",
     "stable": "1.0.0",
@@ -34,8 +34,18 @@
           "sha256": "c0a9fe773a6059bbed0bd43840373be44379830d34e8331bd032947aae480984"
         }
       }
+    },
+    "1.0.1": {
+      "minWinBuild": 0,
+      "files": {
+        "agent.exe": {
+          "path": "v1.0.1/agent.exe",
+          "size": 14417888,
+          "sha256": "ad32e542b72aa7e606018408d4482956f56764438b17ec09c42875fab507db90"
+        }
+      }
     }
   },
-  "issued": "2026-10-10T19:17:43Z",
-  "expires": "2027-04-08T19:17:43Z"
+  "issued": "2026-10-11T01:06:15Z",
+  "expires": "2027-04-09T01:06:15Z"
 }
