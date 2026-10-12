@@ -1,9 +1,11 @@
 {
   "schema": 1,
-  "serial": 7,
+  "serial": 8,
   "products": {
     "m365-fetcher": {
-      "channels": {},
+      "channels": {
+        "stable": "2.0.9"
+      },
       "tenants": {},
       "builds": {
         "2.0.6": {
@@ -62,6 +64,6 @@
       }
     }
   },
-  "issued": "2026-10-12T15:28:23Z",
-  "expires": "2027-04-10T15:28:23Z"
+  "issued": "2026-10-12T15:28:43Z",
+  "expires": "2027-04-10T15:28:43Z"
 }
