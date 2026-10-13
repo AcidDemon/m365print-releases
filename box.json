@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 8,
+  "serial": 9,
   "products": {
     "m365-fetcher": {
       "channels": {
@@ -43,6 +43,15 @@
               "sha256": "553ce7bc79bec601d6929a4350daa78d59f1522ffd7ff88c7ec22a2bbe918455"
             }
           }
+        },
+        "2.1.0": {
+          "files": {
+            "amd64": {
+              "path": "v2.1.0/m365-fetcher_2.1.0_amd64.deb",
+              "size": 3016800,
+              "sha256": "36095bec09fe440b5b562ad8df09d6db26b0a0e9e8cccd712f7479ffd3a06695"
+            }
+          }
         }
       }
     },
@@ -64,6 +73,6 @@
       }
     }
   },
-  "issued": "2026-10-12T15:28:43Z",
-  "expires": "2027-04-10T15:28:43Z"
+  "issued": "2026-10-13T14:38:04Z",
+  "expires": "2027-04-11T14:38:04Z"
 }
