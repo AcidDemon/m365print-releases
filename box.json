@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 11,
+  "serial": 12,
   "products": {
     "m365-fetcher": {
       "channels": {
@@ -87,10 +87,19 @@
               "sha256": "ea5ed08c57540be421bae8cdb887f8f94a8114b0b504b2ea906d81d3fd18cf57"
             }
           }
+        },
+        "2.2.0": {
+          "files": {
+            "amd64": {
+              "path": "v2.2.0/m365-box-updater_2.2.0_amd64.deb",
+              "size": 2274840,
+              "sha256": "c612175fd6c56a72482a2157d1f2e83026e06be01d3fb0985977e172c14e1b38"
+            }
+          }
         }
       }
     }
   },
-  "issued": "2026-10-14T19:07:01Z",
-  "expires": "2027-04-12T19:07:01Z"
+  "issued": "2026-10-14T19:07:14Z",
+  "expires": "2027-04-12T19:07:14Z"
 }
