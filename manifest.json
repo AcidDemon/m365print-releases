@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 31,
+  "serial": 32,
   "channels": {
     "v1": "1.0.1",
     "stable": "1.0.1",
@@ -256,8 +256,35 @@
           "sha256": "db50901bd0f4ead95046fc81249aca07c3e8cd1d10b5f816769816ca63db1125"
         }
       }
+    },
+    "2.2.0": {
+      "minWinBuild": 26100,
+      "files": {
+        "agent.exe": {
+          "path": "v2.2.0/m365-agent_2.2.0_amd64.exe",
+          "size": 15060448,
+          "sha256": "1a2526bdae8a370b1bf3d6fe84a1ec042a5c9e54f850d30e18036e7165e38067"
+        },
+        "CloudPrinter.msix": {
+          "path": "v2.2.0/m365-cloudprinter_2.2.0_amd64.msix",
+          "size": 46460332,
+          "sha256": "d683a842631b2ac324597a6f1c0cf40133e80822db2a26e07ef16b7022d526ae"
+        }
+      },
+      "arm64": {
+        "agent.exe": {
+          "path": "v2.2.0/m365-agent_2.2.0_arm64.exe",
+          "size": 13922272,
+          "sha256": "279947d8026e7f9064d91e2bc69df04912ec004359c69a7ebca2dbb5ac320d70"
+        },
+        "CloudPrinter.msix": {
+          "path": "v2.2.0/m365-cloudprinter_2.2.0_arm64.msix",
+          "size": 45008612,
+          "sha256": "764068875711bffae64c45eef9a81abf8da296cc00712c2d301d5b4b79d1ba22"
+        }
+      }
     }
   },
-  "issued": "2026-10-13T14:38:36Z",
-  "expires": "2027-04-11T14:38:36Z"
+  "issued": "2026-10-14T19:06:48Z",
+  "expires": "2027-04-12T19:06:48Z"
 }
